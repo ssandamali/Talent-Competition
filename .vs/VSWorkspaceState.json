@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App",
+    "\\App\\Talent.App.WebApp",
+    "\\App\\Talent.App.WebApp\\Views\\Home",
+    "\\App\\Talent.App.WebApp\\wwwroot",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js",
+    "\\App\\Talent.App.WebApp\\wwwroot\\js\\react",
+    "\\Talent.Services.Profile",
+    "\\Talent.Services.Profile\\bin",
+    "\\Talent.Services.Profile\\Controllers"
+  ],
+  "SelectedNode": "\\Talent.sln",
+  "PreviewInSolutionExplorer": false
+}

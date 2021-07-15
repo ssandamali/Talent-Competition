@@ -13,6 +13,7 @@ namespace Talent.App.WebApp
     {
         public Startup(IConfiguration configuration)
         {
+            Console.WriteLine("Configuration", configuration);
             Configuration = configuration;
         }
 
