@@ -143,7 +143,8 @@ export default class ManageJob extends React.Component {
       "&showExpired=" +
       this.state.filter.showExpired +
       "&showUnexpired=" +
-      this.state.filter.showUnexpired;
+      this.state.filter.showUnexpired +
+      "&limit=2";
     var cookies = Cookies.get("talentAuthToken");
     $.ajax({
       url: link,
